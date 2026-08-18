@@ -18,6 +18,10 @@ pagination:
 
 <div class="post">
 
+<header class="post-header">
+  <h1 class="post-title">{{ page.title }}</h1>
+</header>
+
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
