@@ -1,0 +1,161 @@
+cv:
+  name: Taemin Cho
+  label: Principal Engineer & AI/ML Lead at BandLab Technologies
+  email:
+  location: Singapore
+  image: ""
+  summary: >
+    I lead the AI/ML team at BandLab Technologies, building music AI used by nearly 200M creators
+    worldwide. My team develops and ships the models behind BandLab's AI features: music generation
+    (MIDI and audio), source separation, voice enhancement, voice-to-MIDI, and music information
+    retrieval, from research to real-time deployment on mobile devices. Before BandLab, I led
+    Samsung's mobile DAW Soundcamp and spoke at Google I/O 2016 and as a keynote speaker at Samsung
+    Developer Conference. I hold a Ph.D. in Music Technology from NYU, and I'm a trained guitarist
+    (Berklee) who came to engineering through music.
+
+  social_networks:
+    - network: GitHub
+      username: taemincho
+    - network: LinkedIn
+      username: taemincho
+
+  sections:
+    Education:
+      - institution: New York University
+        location: New York, USA
+        area: Music Technology
+        studyType: Ph.D.
+        start_date: 2009
+        end_date: 2013
+
+      - institution: New York University
+        location: New York, USA
+        area: Music Technology
+        studyType: M.M.
+        start_date: 2007
+        end_date: 2009
+
+      - institution: Berklee College of Music
+        location: Boston, USA
+        area: Music Performance (Guitar) / Music Synthesis
+        studyType: B.M., dual major in Music Synthesis and Performance
+        start_date: 2004
+        end_date: 2007
+
+      - institution: Inha University
+        location: Incheon,  Korea
+        area: Computer Science
+        studyType: B.S.
+        start_date: 1995
+        end_date: 2002
+
+    Experience:
+      - company: BandLab Technologies
+        position: Principal Engineer, AI/ML Team Lead
+        location: Singapore
+        start_date: 2022-10
+        end_date: Present
+        summary: Leading the AI/ML team behind BandLab's music AI features, serving nearly 200M creators. Responsible for research direction, model development, and production deployment.
+        highlights:
+          - AI music generation (MIDI and audio), source separation, voice enhancement, voice-to-MIDI, and MIR solutions
+          - Conducting original research and authoring/supervising peer-reviewed publications
+          - Built the team's research-to-product pipeline, shipping models to mobile and web at scale
+
+      - company: BandLab Technologies
+        position: Senior Manager
+        location: Singapore
+        start_date: 2016-10
+        end_date: 2022-10
+        highlights:
+          - Developed cross-platform audio engines for iOS, Android, and Web, with a focus on real-time audio DSP and low-level performance optimization (NEON, SSE, assembly)
+          - Designed and implemented machine learning solutions for audio applications, with a focus on Music Information Retrieval (MIR)
+
+      - company: Samsung Electronics
+        position: Senior Engineer
+        location: Suwon, Korea
+        start_date: 2016-03
+        end_date: 2016-09
+        highlights:
+          - Lead engineer for Samsung's mobile DAW app Soundcamp
+          - Keynote speaker at Samsung Developer Conference 2016 (SDC 2016); main speaker at the "Samsung Professional Audio meets Android Pro-Audio" session
+          - Invited speaker at the "High-performance audio" session at Google I/O 2016
+
+      - company: Various Schools & Universities
+        position: Invited Lecturer
+        location: Singapore / Korea
+        start_date: 2015-06
+        end_date: Present
+        summary: Guest lectures on music AI, machine learning, and real-time audio DSP.
+        highlights:
+          - "National University of Singapore, CS4347/CS5647 Sound and Music Computing — \"Inside the Models that Make Music\" (2025), \"AI in Practice: Transforming Ideas into Products with Cutting-Edge Models\" (2024)"
+          - "KAIST, CTP431 Fundamentals of Computer Music — \"Real-time Audio Programming in Practice\" (2023)"
+          - "Ajou University — \"Music and Machine Learning\" (2015); Sangmyung University — \"DSP for Musicians\" (2015)"
+          - Panelist at Singapore Music Research Symposium (2019, 2023)
+
+      - company: Samsung Electronics
+        position: Senior Manager
+        location: Suwon, Korea
+        start_date: 2015-03
+        end_date: 2016-03
+        summary: Project leader of Samsung's mobile DAW app Soundcamp.
+
+      - company: Samsung Electronics
+        position: Team Lead (책임)
+        location: Suwon, Korea
+        start_date: 2013-10
+        end_date: 2015-02
+        summary: Project leader of Samsung's new music creation app Soundcamp.
+        highlights:
+          - "Main speaker at the session \"A new real-time solution for mobile music creation - Using the Soundcamp and Professional Audio SDK\" at Samsung Developer Conference 2014 (SDC 2014)"
+
+      - company: Sourcetone, LLC
+        position: Software Engineer Intern
+        location: New York, USA
+        start_date: 2012-06
+        end_date: 2012-08
+        summary: iPhone app development for a music streaming app based on mood, activity, and health.
+
+      - company: New York University
+        position: Ph.D. Candidate / Research Assistant
+        location: New York, USA
+        start_date: 2009-01
+        end_date: 2013-09
+        summary: Music information retrieval (MIR) research; teaching assistant for classes.
+
+      - company: Sonik Architects, Inc.
+        position: Contract Software Developer
+        location: Los Angeles, USA
+        start_date: 2008-12
+        end_date: 2009-05
+        summary: Developed the iPhone application Sonifi with musician BT.
+
+      - company: Borazone
+        position: Music/Sound Producer
+        location: Seoul, Korea
+        start_date: 2003-05
+        end_date: 2003-07
+        summary: Composed and produced music and sound effects for KTF's Logo Projects.
+
+      - company: Ensony
+        position: Sound Director
+        location: Seoul, Korea
+        start_date: 2002-02
+        end_date: 2003-11
+
+    Skills:
+      - name: Machine Learning & Audio
+        level:
+        icon: fa-solid fa-wave-square
+        keywords: "Music Information Retrieval, Digital Signal Processing, Music Generation, Source Separation"
+
+      - name: Programming
+        level:
+        icon: fa-solid fa-code
+        keywords: "Python, real-time audio DSP (NEON, SSE, assembly), iOS, Android, Web"
+
+    Languages:
+      - name: Korean
+        summary: Native or bilingual
+
+      - name: English
+        summary: Professional working proficiency

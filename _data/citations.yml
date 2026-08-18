@@ -1,0 +1,5 @@
+# Optional Google Scholar citation counts, keyed by "<scholar_userid>:<scholar_pub_id>".
+# Leave empty unless you set up a script/workflow to populate it from Google Scholar.
+metadata:
+  last_updated:
+papers: {}

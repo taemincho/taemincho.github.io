@@ -1,0 +1,5 @@
+# Used by jekyll-scholar to color/link the "abbr" badge on each publication, e.g.:
+#
+# "VENUE_ABBR":
+#   url: https://example.com
+#   color: "#00369f"

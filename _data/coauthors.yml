@@ -1,0 +1,6 @@
+# Used by jekyll-scholar to link coauthor names on the publications page to a URL.
+# Key is the coauthor's lowercase last name; add entries as needed, e.g.:
+#
+# "coauthor":
+#   - firstname: ["First", "F."]
+#     url: https://example.com
